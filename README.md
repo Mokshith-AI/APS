@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mokshith-AI/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Mokshith-AI/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Mokshith-AI/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mokshith-AI/APS/tree/master/0735-asteroid-collision) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mokshith-AI/APS/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mokshith-AI/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
