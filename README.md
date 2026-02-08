@@ -56,5 +56,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Mokshith-AI/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Mokshith-AI/APS/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Mokshith-AI/APS/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Mokshith-AI/APS/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
