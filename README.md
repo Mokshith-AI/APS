@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Mokshith-AI/APS/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mokshith-AI/APS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Mokshith-AI/APS/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Mokshith-AI/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mokshith-AI/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mokshith-AI/APS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Mokshith-AI/APS/tree/master/0901-online-stock-span) |
@@ -26,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Mokshith-AI/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mokshith-AI/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mokshith-AI/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Mokshith-AI/APS/tree/master/0946-validate-stack-sequences) |
@@ -43,6 +45,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Mokshith-AI/APS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mokshith-AI/APS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Mokshith-AI/APS/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mokshith-AI/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -50,4 +53,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Mokshith-AI/APS/tree/master/0901-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mokshith-AI/APS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
