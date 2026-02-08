@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mokshith-AI/APS/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mokshith-AI/APS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Mokshith-AI/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mokshith-AI/APS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mokshith-AI/APS/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mokshith-AI/APS/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
