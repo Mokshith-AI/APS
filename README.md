@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Mokshith-AI/APS/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mokshith-AI/APS/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mokshith-AI/APS/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Mokshith-AI/APS/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mokshith-AI/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Mokshith-AI/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -61,6 +63,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Mokshith-AI/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mokshith-AI/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mokshith-AI/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mokshith-AI/APS/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -99,4 +102,8 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Mokshith-AI/APS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Mokshith-AI/APS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mokshith-AI/APS/tree/master/0234-palindrome-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mokshith-AI/APS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
