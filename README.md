@@ -38,6 +38,7 @@
 | [0739-daily-temperatures](https://github.com/Mokshith-AI/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Mokshith-AI/APS/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mokshith-AI/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Mokshith-AI/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -122,4 +123,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Mokshith-AI/APS/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Mokshith-AI/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Mokshith-AI/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
