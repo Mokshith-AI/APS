@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mokshith-AI/APS/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mokshith-AI/APS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Mokshith-AI/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/Mokshith-AI/APS/tree/master/0735-asteroid-collision) |
@@ -31,5 +32,6 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mokshith-AI/APS/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Mokshith-AI/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
